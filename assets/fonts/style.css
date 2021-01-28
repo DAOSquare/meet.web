@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'MyriadSetPro-Bold';
+   font-display: swap;
+   src: url('MyriadSetPro-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Coco Gothic Heavy Italic-trial';
+   font-display: swap;
+   src: url('Coco Gothic Heavy Italic-trial/font.ttf');
+}
+@font-face {
+   font-family: 'MyriadSetPro-Thin';
+   font-display: swap;
+   src: url('MyriadSetPro-Thin/font.ttf');
+}
